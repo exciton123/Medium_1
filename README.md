@@ -1,5 +1,5 @@
 # Medium_1
-Jupytr notebook for Medium Article
+## Jupyter notebook for Medium Article
 
 install openai
 add your own API key
